@@ -7,16 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-## List
+h2. List
 
 {% comment %} &nbsp;&nbsp;&#x2610; &#x2611; &#x2612;<br/> {% endcomment %}
 
-1. create a list
-1. project 1
-1. project 2
+<ol start="0">
+  <li>create a list</li>
+  <li>project 1</li>
+  <li>project 2</li>
+</ol>
 
-
-## Individual Items
+h2. Individual Items
 
 {% for post in site.projects2019 %}
   {% include archive-single.html %}
