@@ -10,6 +10,49 @@ redirect_from:
 
 Me ...
 
+Work
+====
+
+I work at [Fermilab](https://www.fnal.gov) which is America's particle physics and accelerator laboratory.  My official title is "Computational Physics Developer" which basically boils down to:  I write simulations of physics processes to support the development and analysis of neutrino experiments.
+
+Experiments I've worked on:
+
+* E-594/E-733 - a Fine-Grained Neutrino Detector at the Tevatron
+* [D0](https://en.wikipedia.org/wiki/DØ_experiment)
+* [MINOS{+}](https://en.wikipedia.org/wiki/MINOS)
+* [NOvA](https://en.wikipedia.org/wiki/NOvA)
+* [DUNE](https://en.wikipedia.org/wiki/Deep_Underground_Neutrino_Experiment)
+
+Experiments I've contributed to:
+
+* [Minerva](https://en.wikipedia.org/wiki/MINERνA)
+* [ArgoNeuT](https://en.wikipedia.org/wiki/ArgoNeuT)
+* [MicroBooNE](https://en.wikipedia.org/wiki/MicroBooNE)
+
+Simulation Projects I've contributed to:
+
+* [GENIE](http://genie-mc.org)
+* [Geant4](https://geant4.web.cern.ch)
+
+
+Making
+====
+
+I'm a member of the [makerspace](https://en.wikipedia.org/wiki/Hackerspace) [Fox.Build](https://fox.build)
+
+Photography
+====
+
+Geocaching
+====
+
+I like to use multi-billion dollar satellite systems to look for tupperware containers in the woods (i.e. [geocaching](https://en.wikipedia.org/wiki/Geocaching))
+
+I cache as [nusense](https://www.geocaching.com/p/default.aspx?guid=6f3d85b3-222c-4c91-a2d5-809290de444e), often with my caching buddies [Leo](https://www.geocaching.com/track/details.aspx?tracker=TB3DRF1) and/or Tom W.
+
+
+-----
+
 About this site layout
 ----
 
