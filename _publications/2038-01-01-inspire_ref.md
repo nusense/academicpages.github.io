@@ -6,7 +6,7 @@ excerpt: 'links to INSPIRE record of papers.'
 date: 2038-01-01
 venue: 'various journals'
 paperurl: ''
-<!--- citation: '' -->
+citation: 'https://inspirehep.net/author/profile/Robert.W.Hatcher.1'
 ---
 
 [HEPNAME record](https://inspirehep.net/record/1006507)
