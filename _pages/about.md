@@ -29,7 +29,7 @@ Experiments I've contributed to:
 * [ArgoNeuT](https://en.wikipedia.org/wiki/ArgoNeuT)
 * [MicroBooNE](https://en.wikipedia.org/wiki/MicroBooNE)
 
-Simulation Projects I've contributed to:
+Public physics simulation projects I've contributed to:
 
 * [GENIE](http://genie-mc.org)
 * [Geant4](https://geant4.web.cern.ch)
@@ -38,10 +38,12 @@ Simulation Projects I've contributed to:
 Making
 ====
 
-I'm a member of the [makerspace](https://en.wikipedia.org/wiki/Hackerspace) [Fox.Build](https://fox.build)
+I'm a member of the [Fox.Build](https://fox.build) [makerspace](https://en.wikipedia.org/wiki/Hackerspace)
 
 Photography
 ====
+
+<img alt='picture of a jellyfish' width='475' height='316' src='/images/jellyfish_3497.jpg'>
 
 Geocaching
 ====
