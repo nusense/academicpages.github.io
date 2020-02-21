@@ -11,22 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.B.s in Physics and Astronomy, University of California Berkeley, 1983
+* M.S. in Physics, Michigan State University, 1988
+* Ph.D in Physics, Michigan State University, 1994
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+[HEPNAME record](https://inspirehep.net/record/1006507)
+
+[INSPIRE record](https://inspirehep.net/author/profile/Robert.W.Hatcher.1)
+
+
 Skills
 ======
 * Skill 1
@@ -41,19 +35,21 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
