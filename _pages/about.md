@@ -43,7 +43,11 @@ I'm a member of the [Fox.Build](https://fox.build) [makerspace](https://en.wikip
 Photography
 ====
 
+![Image of a jellyfish](/images/jellyfish_3497.jpg | width=475px | height=316px | alt="picture of a jellyfish")
+
+<!--
 <img alt='picture of a jellyfish' width='475' height='316' src='/images/jellyfish_3497.jpg'>
+-->
 
 Geocaching
 ====
